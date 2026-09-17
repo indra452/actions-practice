@@ -1,3 +1,3 @@
 <?php
 $name = "City Drugs";
-echo "Hello from " . $name;
+echo "Hello from " . $name
